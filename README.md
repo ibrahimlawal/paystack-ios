@@ -1,3 +1,6 @@
+This is a fork of the original which is at https://github.com/paystackhq/paystack-ios
+- - - - - - - - - - - - - - - - - - -
+
 # Paystack iOS SDK
 <!-- [![Travis](https://img.shields.io/travis/paystackhq/paystack-ios/master.svg?style=flat)](https://travis-ci.org/paystackhq/paystack-ios) -->
 [![CocoaPods](https://img.shields.io/cocoapods/v/Paystack.svg?style=flat)](http://cocoapods.org/?q=author%3Apaystack%20name%3Apaystack)
